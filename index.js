@@ -1,3 +1,5 @@
+// #### UPDATE: CONFIG #### //
+
 const RPC = require('discord-rpc');
 const config = require('./config.json');
 
@@ -19,5 +21,5 @@ rpc.on("ready", () => {
 });
 
 rpc.login({
-    clientId: config.rpc_login.clientId
+    clientId: config.rpc_login.clientId // your client ID, NOT your Discord user ID!
 });
