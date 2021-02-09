@@ -1,0 +1,8 @@
+{
+  "name": "rpc-wrapper",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "discord-rpc": "^3.1.4"
+  }
+}

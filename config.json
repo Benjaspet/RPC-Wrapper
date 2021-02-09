@@ -1,0 +1,13 @@
+{
+  "presence_settings": {
+    "details": "",
+    "state": "",
+    "largeImageKey": "",
+    "largeImageText": "",
+    "smallImageKey": "",
+    "smallImageText": ""
+  },
+  "rpc_login": {
+    "clientId": ""
+  }
+}
