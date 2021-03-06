@@ -5,7 +5,13 @@
     "largeImageKey": "",
     "largeImageText": "",
     "smallImageKey": "",
-    "smallImageText": ""
+    "smallImageText": "",
+    "joinSecret": "",
+    "spectateSecret": "",
+    "button1_label": "",
+    "button1_url": "",
+    "button2_label": "",
+    "button2_url": ""
   },
   "rpc_login": {
     "clientId": ""
